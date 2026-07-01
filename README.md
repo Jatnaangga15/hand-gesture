@@ -1,1 +1,1 @@
-# hang-gesture
+# hand-gesture
